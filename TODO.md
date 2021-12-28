@@ -1,0 +1,3 @@
+- Revisar el import de Storage en basemodel
+- remover las referencias a storage en console.py (presentacion)
+- refactor constructor de basemodel
